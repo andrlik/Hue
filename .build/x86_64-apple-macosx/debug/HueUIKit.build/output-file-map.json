@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/daniel/Documents/projects/Hue/.build/x86_64-apple-macosx/debug/HueUIKit.build/master.swiftdeps"
+  },
+  "/Users/daniel/Documents/projects/Hue/Source/iOS+tvOS/UIColor+Hue.swift": {
+    "dependencies": "/Users/daniel/Documents/projects/Hue/.build/x86_64-apple-macosx/debug/HueUIKit.build/UIColor+Hue.d",
+    "object": "/Users/daniel/Documents/projects/Hue/.build/x86_64-apple-macosx/debug/HueUIKit.build/UIColor+Hue.swift.o",
+    "swiftmodule": "/Users/daniel/Documents/projects/Hue/.build/x86_64-apple-macosx/debug/HueUIKit.build/UIColor+Hue~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniel/Documents/projects/Hue/.build/x86_64-apple-macosx/debug/HueUIKit.build/UIColor+Hue.swiftdeps"
+  },
+  "/Users/daniel/Documents/projects/Hue/Source/iOS+tvOS/UIImage+Hue.swift": {
+    "dependencies": "/Users/daniel/Documents/projects/Hue/.build/x86_64-apple-macosx/debug/HueUIKit.build/UIImage+Hue.d",
+    "object": "/Users/daniel/Documents/projects/Hue/.build/x86_64-apple-macosx/debug/HueUIKit.build/UIImage+Hue.swift.o",
+    "swiftmodule": "/Users/daniel/Documents/projects/Hue/.build/x86_64-apple-macosx/debug/HueUIKit.build/UIImage+Hue~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniel/Documents/projects/Hue/.build/x86_64-apple-macosx/debug/HueUIKit.build/UIImage+Hue.swiftdeps"
+  }
+}

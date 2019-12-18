@@ -1,0 +1,176 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CountedColor"
+provides-nominal:
+- "8HueUIKit12CountedColorC"
+provides-member:
+- ["8HueUIKit12CountedColorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "&&"
+- !private "*"
+- !private "..<"
+- !private "/"
+- !private "<="
+- !private "=="
+- !private ">"
+- "AssignmentPrecedence"
+- !private "Bool"
+- !private "CGColorSpaceCreateDeviceRGB"
+- !private "CGContext"
+- !private "CGFloat"
+- !private "CGImage"
+- !private "CGImageAlphaInfo"
+- "CGPoint"
+- !private "CGRect"
+- "CGSize"
+- "CountedColor"
+- !private "DispatchQueue"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- !private "NSCountedSet"
+- "UIColor"
+- !private "UIGraphicsBeginImageContextWithOptions"
+- !private "UIGraphicsEndImageContext"
+- !private "UIGraphicsGetImageFromCurrentImageContext"
+- "UIImage"
+- !private "UInt8"
+- !private "UnsafePointer"
+- "Void"
+- !private "draw"
+- !private "free"
+- !private "malloc"
+- !private "resize"
+- !private "size"
+depends-member:
+- !private ["Sa", "first"]
+- !private ["Sa", "init"]
+- !private ["Sa", "removeAll"]
+- !private ["Sa", "sort"]
+- !private ["SK", "first"]
+- !private ["SK", "init"]
+- !private ["SK", "removeAll"]
+- !private ["SK", "sort"]
+- !private ["Sl", "first"]
+- !private ["Sl", "init"]
+- !private ["Sl", "removeAll"]
+- !private ["Sl", "sort"]
+- ["8HueUIKit12CountedColorC", "Int"]
+- ["8HueUIKit12CountedColorC", "UIColor"]
+- !private ["8HueUIKit12CountedColorC", "color"]
+- ["8HueUIKit12CountedColorC", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "removeAll"]
+- !private ["s28CustomDebugStringConvertibleP", "sort"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "removeAll"]
+- !private ["s17CustomReflectableP", "sort"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "removeAll"]
+- !private ["s23CustomStringConvertibleP", "sort"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["Se", "removeAll"]
+- !private ["Se", "sort"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SE", "removeAll"]
+- !private ["SE", "sort"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- !private ["SQ", "removeAll"]
+- !private ["SQ", "sort"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "removeAll"]
+- !private ["s25ExpressibleByArrayLiteralP", "sort"]
+- !private ["SH", "first"]
+- !private ["SH", "init"]
+- !private ["SH", "removeAll"]
+- !private ["SH", "sort"]
+- !private ["SM", "first"]
+- !private ["SM", "init"]
+- !private ["SM", "removeAll"]
+- !private ["SM", "sort"]
+- !private ["Sk", "first"]
+- !private ["Sk", "init"]
+- !private ["Sk", "removeAll"]
+- !private ["Sk", "sort"]
+- !private ["Sm", "first"]
+- !private ["Sm", "init"]
+- !private ["Sm", "removeAll"]
+- !private ["Sm", "sort"]
+- !private ["ST", "first"]
+- !private ["ST", "init"]
+- !private ["ST", "removeAll"]
+- !private ["ST", "sort"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "removeAll"]
+- !private ["s14_ArrayProtocolP", "sort"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "removeAll"]
+- !private ["s24_DestructorSafeContainerP", "sort"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "removeAll"]
+- !private ["s19_HasContiguousBytesP", "sort"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "removeAll"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "sort"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "Sl"
+- "8HueUIKit12CountedColorC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "SH"
+- !private "SM"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/ThreadLocalStorage.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/SwiftStddef.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/AssertionReporting.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/KeyPath.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/SwiftStdbool.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/System.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/Random.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/LibcShims.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/UnicodeShims.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/RuntimeShims.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/FoundationShims.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/GlobalObjects.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/HeapObject.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/Target.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/SwiftStdint.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/RefCount.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/Visibility.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib/swift/shims/module.modulemap"
+interface-hash: "d75b2c35e95d2d24ecfe7c288056c392"
