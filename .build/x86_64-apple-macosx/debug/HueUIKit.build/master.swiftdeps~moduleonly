@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
-options: "019bc8a09e22330eb7bb832bd47edb32"
-build_time: [1576700992, 368760000]
-inputs:
-  "/Users/daniel/Documents/projects/Hue/Source/iOS+tvOS/UIColor+Hue.swift": !dirty [1576700422, 552704643]
-  "/Users/daniel/Documents/projects/Hue/Source/iOS+tvOS/UIImage+Hue.swift": !dirty [1576700422, 552923623]
